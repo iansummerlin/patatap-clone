@@ -191,9 +191,8 @@
 			i--; // decrement i so that the loop doesn't skip a circle because of .splice()
 			}
 		}
-	}
-
-
+    }
+    
 	</script>
 </head>
 <body>
